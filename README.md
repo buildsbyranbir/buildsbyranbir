@@ -1,60 +1,13 @@
-<h1 align="center">Hi 👋, I'm Ranbir Roy</h1>
-<h3 align="center">MERN Stack Developer</h3>
+### Hi there 👋, Hello, I am Ranbir Roy
+#### MERN Stack Web Developer 
+![MERN Stack Web Developer ](https://github.com/buildsbyranbir/buildsbyranbir/blob/main/Ranbir%20Roy%20Linkedin%20cover%20phoro.png)
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=buildsbyranbir&label=Profile%20views&color=0e75b6&style=flat" alt="buildsbyranbir" />
-</p>
+I am a passionate MERN Stack Web Developer with strong skills in JavaScript, React, Tailwind CSS, HTML, and CSS. I have experience building responsive and user-friendly web applications using modern frontend technologies.
 
-- 🔭 I’m currently working on **React & MERN Stack projects**
-- 🌱 Learning **Advanced React & Backend Optimization**
-- 💬 Ask me about **React, Node.js, MongoDB**
-- 📫 Reach me at **LinkedIn / Facebook**
+On the backend, I work with Node.js, Express.js, MongoDB, and Firebase to create secure and scalable applications. I enjoy learning new technologies and continuously improving my problem-solving skills.
 
----
+Currently, I am focused on becoming a full-stack developer and looking for opportunities where I can contribute, learn, and grow as a developer.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/webdevranbir" target="_blank">
-    <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg"
-      alt="webdevranbir"
-      height="30"
-      width="40" />
-  </a>
-  <a href="https://fb.com/ranbirroy480" target="_blank">
-    <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="ranbirroy480"
-      height="30"
-      width="40" />
-  </a>
-</p>
+Skills:  JavaScript | React | Tailwind CSS | Node.js | Express | MongoDB | Firebase
 
----
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
-</p>
-
----
-
-<p>
-  <img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=buildsbyranbir&show_icons=true&locale=en&layout=compact"
-    alt="buildsbyranbir" />
-</p>
-
-<p>
-  <img align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=buildsbyranbir"
-    alt="buildsbyranbir" />
-</p>
+- 🔭 I’m currently working on this page. 
